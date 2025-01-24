@@ -1,6 +1,6 @@
 # Neural Network for Pattern Recognition using Back-propagation learning rule
 
-# Neural Network Implementation with NumPy: Identity Matrix Prediction
+Neural Network Implementation with NumPy: Identity Matrix Prediction
 
 ## Overview
 This project implements a simple neural network using NumPy, featuring a single hidden layer and backpropagation for learning. The network is designed to predict an identity matrix from a given input dataset, demonstrating the fundamentals of neural networks and gradient descent.
