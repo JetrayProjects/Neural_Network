@@ -31,29 +31,6 @@ This project implements a simple neural network using NumPy, featuring a single 
 - NumPy
 - Matplotlib
 
-## Usage
-1. Clone the repository:
-   ```bash
-   git clone <repository-url>
-   ```
-
-2. Navigate to the project directory:
-   ```bash
-   cd <project-directory>
-   ```
-
-3. Install the required dependencies:
-   ```bash
-   pip install numpy matplotlib
-   ```
-
-4. Run the script:
-   ```bash
-   python Project_Group_3_code_final.py
-   ```
-
-5. Observe the learning curve plot and view the predicted output in the console.
-
 ## Example Output
 - **Learning Curve**:
   A plot of mean squared error over iterations.
